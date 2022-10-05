@@ -8,6 +8,6 @@
   <body>
     <h2>Passo da Arte</h2>
     <div>Aprenda o passo a passo para criar uma arte</div>
-<img src="https://i.pinimg.com/736x/36/b8/76/36b876ddff04c6e45960e4771407f094--beautiful-pictures-wallpapers.jpg" alt="desenhando" widht=300 height=300>
+<img src="https://lh3.googleusercontent.com/-UhSolksKHgA/YQ3Dd2-gInI/AAAAAAAAUqg/nhZv2sWoLfknwzAlh2cAfQ52EENPv5N-ACLcBGAsYHQ/s16000/image.png" alt="desenhando" widht=300 height=300>
 </body>
 </html>
