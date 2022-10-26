@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Passo da Arte</title>
-    <meta http-equiv=“Content-Type” content=“text/html;tcharset=utf-8”>
+    <title>Passo da Arte</title>  <meta http-equiv=“Content-Type” content=“text/html;tcharset=utf-8”>
+<link rel="stylesheet" href="https://meninasnatiifsp.github.io/Site/assets/style.css">
   </head>
   <body>
     <h2>Passo da Arte</h2>
