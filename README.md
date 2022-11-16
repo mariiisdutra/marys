@@ -1,9 +1,8 @@
-# mariii
-# mariii
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Passo da Arte</title>  <meta http-equiv=“Content-Type” content=“text/html;tcharset=utf-8”>
+    <title>Passo da Arte</title> 
+ <meta http-equiv=“Content-Type” content=“text/html;tcharset=utf-8”>
 <link rel="stylesheet" href="https://meninasnatiifsp.github.io/Site/assets/style.css">
   </head>
   <body>
@@ -12,9 +11,20 @@
     <div>Aprenda o passo a passo para criar uma arte</div>
 <img src="https://lh3.googleusercontent.com/-UhSolksKHgA/YQ3Dd2-gInI/AAAAAAAAUqg/nhZv2sWoLfknwzAlh2cAfQ52EENPv5N-ACLcBGAsYHQ/s16000/image.png" alt="desenhando" widht=300 height=300>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkhrDQyJXFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<ol>
- <li>comece indo atrás das suas inspirações</li>
- <li><a href="https://br.pinterest.com/">Veja suas ideias e inspirações no Pinterest</a></li>
-</ol>
+     <ol>
+      <li><a href="https://br.pinterest.com/">Veja suas ideias e inspirações no Pinterest</a></li>
+    </ol><br></br>
+
+<h3>Materiais Básicos</h3>
+
+<table> 
+  <tr>
+     <td>Lápis Grafite</td>
+     <td>Borracha</td>
+  </tr>
+  <tr>
+     <td>Caneta Preta</td>
+     <td>Lápis de Cor</td>
+  </tr>
 </body>
 </html>
